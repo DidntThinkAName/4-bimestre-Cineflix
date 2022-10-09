@@ -1,0 +1,120 @@
+/* Espaço de cada div */
+
+
+
+
+/* Estilização do header */
+
+
+
+
+.navbar-nav a:hover{
+background-color: #FF4821;
+border-radius: 12px;
+transition: 1s;
+
+}
+
+.navbar-toggler{
+    background-color: #FF4821;
+}
+
+.btn btn-primary{
+    color: #FF4821;
+}
+
+.bx bxs-movie-play{
+color: #FF4821;
+
+}
+
+.navbar-brand{
+color: #FF4821;
+
+}
+
+/* Fim da estilização do header */
+
+/* Estilização do carrosel */
+
+.carousel-inner{
+    padding-top: 50px;
+}
+
+
+
+/* Fim da estilização do carrosel */
+
+
+/* Estilização do grupo de botões */
+.btn-group{
+padding-left: 460px;
+
+
+}
+
+.btngroup h2 {
+    text-align: center;
+}
+
+body{
+
+    background-color:#D7DCE5;
+}
+
+
+/* Fim da estilização do grupo de botões */
+
+
+/* Estilização do feed */
+.mural{
+    padding-bottom: 20px;
+}
+
+
+/* FIm da estilização do feed */
+
+/* Estilização do footer */
+.footer{
+    width: 1920px 300px;
+}
+
+#myFooter{
+    padding-top: 20px;
+    padding-bottom:60px;
+    background-color: #0b0b0b;
+
+}
+
+.footer-copyright a {
+
+text-align: right;
+float: right;
+}
+
+
+.col-sm-1{
+color: #FF4821;
+padding-right:50px;
+}
+
+.col-sm-2{
+color: #FF4821;
+padding-right: 50px;
+
+}
+.col-sm-3{
+color: #FF4821;
+padding-right: 00px;
+}
+
+.footer-copyright{
+color: #FF4821;
+display: flex;
+align-items: center;
+justify-content: space-between;
+clear: both;
+}
+
+
+
